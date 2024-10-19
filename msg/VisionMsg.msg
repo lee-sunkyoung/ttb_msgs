@@ -21,6 +21,13 @@ bool w_line
 bool y_line
 float32 w_slope
 float32 y_slope
+float32 m_slope
 float32 langle
 float32 rangle
 float32 mangle
+
+###############################
+# else
+###############################
+bool stop
+int8 debug
